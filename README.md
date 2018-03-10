@@ -1,2 +1,4 @@
-# Azure-LiftAndShift
-Files and scripts needed for my lift and shift scenarios. 
+# Azure-LiftAndRun
+Files and scripts needed for lift and run proof of concept scenarios.
+
+
